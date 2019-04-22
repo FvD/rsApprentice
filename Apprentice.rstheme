@@ -236,37 +236,37 @@
 .xtermHidden { visibility: hidden; }
 .xtermItalic { font-style: italic; }
 .xtermStrike { text-decoration: line-through; }
-.xtermColor0 { color: #2e3436 !important; }
+.xtermColor0 { color: #1C1C1C !important; }
 .xtermBgColor0 { background-color: #2e3436; }
-.xtermColor1 { color: #cc0000 !important; }
+.xtermColor1 { color: #AF5F5F !important; }
 .xtermBgColor1 { background-color: #cc0000; }
-.xtermColor2 { color: #4e9a06 !important; }
+.xtermColor2 { color: #5F875F !important; }
 .xtermBgColor2 { background-color: #4e9a06; }
-.xtermColor3 { color: #c4a000 !important; }
+.xtermColor3 { color: #87875F !important; }
 .xtermBgColor3 { background-color: #c4a000; }
-.xtermColor4 { color: #3465a4 !important; }
+.xtermColor4 { color: #5F87AF !important; }
 .xtermBgColor4 { background-color: #3465a4; }
-.xtermColor5 { color: #75507b !important; }
+.xtermColor5 { color: #5F5F87 !important; }
 .xtermBgColor5 { background-color: #75507b; }
-.xtermColor6 { color: #06989a !important; }
+.xtermColor6 { color: #5F8787 !important; }
 .xtermBgColor6 { background-color: #06989a; }
-.xtermColor7 { color: #d3d7cf !important; }
+.xtermColor7 { color: #6C6C6C !important; }
 .xtermBgColor7 { background-color: #d3d7cf; }
-.xtermColor8 { color: #555753 !important; }
+.xtermColor8 { color: #444444 !important; }
 .xtermBgColor8 { background-color: #555753; }
-.xtermColor9 { color: #ef2929 !important; }
+.xtermColor9 { color: #FF8700 !important; }
 .xtermBgColor9 { background-color: #ef2929; }
-.xtermColor10 { color: #8ae234 !important; }
+.xtermColor10 { color: #87AF87 !important; }
 .xtermBgColor10 { background-color: #8ae234; }
-.xtermColor11 { color: #fce94f !important; }
+.xtermColor11 { color: #FFFFAF !important; }
 .xtermBgColor11 { background-color: #fce94f; }
-.xtermColor12 { color: #729fcf !important; }
+.xtermColor12 { color: #8FAFD7 !important; }
 .xtermBgColor12 { background-color: #729fcf; }
-.xtermColor13 { color: #ad7fa8 !important; }
+.xtermColor13 { color: #8787AF !important; }
 .xtermBgColor13 { background-color: #ad7fa8; }
-.xtermColor14 { color: #34e2e2 !important; }
+.xtermColor14 { color: #5FAFAF !important; }
 .xtermBgColor14 { background-color: #34e2e2; }
-.xtermColor15 { color: #eeeeec !important; }
+.xtermColor15 { color: #FFFFFF !important; }
 .xtermBgColor15 { background-color: #eeeeec; }
 .xtermColor16 { color: #000000 !important; }
 .xtermBgColor16 { background-color: #000000; }
